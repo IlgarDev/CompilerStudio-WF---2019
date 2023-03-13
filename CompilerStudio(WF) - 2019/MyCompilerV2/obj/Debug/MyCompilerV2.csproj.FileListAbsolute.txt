@@ -1,0 +1,67 @@
+D:\Sayrus\source\repos\MyCompilerV2\MyCompilerV2\obj\Debug\MyCompilerV2.csprojAssemblyReference.cache
+D:\Sayrus\source\repos\MyCompilerV2\MyCompilerV2\obj\Debug\MyCompilerV2.Properties.Resources.resources
+D:\Sayrus\source\repos\MyCompilerV2\MyCompilerV2\obj\Debug\MyCompilerV2.MainView.resources
+D:\Sayrus\source\repos\MyCompilerV2\MyCompilerV2\obj\Debug\MyCompilerV2.csproj.GenerateResource.cache
+D:\Sayrus\source\repos\MyCompilerV2\MyCompilerV2\obj\Debug\MyCompilerV2.csproj.CoreCompileInputs.cache
+D:\Sayrus\source\repos\MyCompilerV2\MyCompilerV2\bin\Debug\MyCompilerV2.exe.config
+D:\Sayrus\source\repos\MyCompilerV2\MyCompilerV2\bin\Debug\MyCompilerV2.exe
+D:\Sayrus\source\repos\MyCompilerV2\MyCompilerV2\bin\Debug\MyCompilerV2.pdb
+D:\Sayrus\source\repos\MyCompilerV2\MyCompilerV2\bin\Debug\FastColoredTextBox.dll
+D:\Sayrus\source\repos\MyCompilerV2\MyCompilerV2\bin\Debug\FastColoredTextBox.xml
+D:\Sayrus\source\repos\MyCompilerV2\MyCompilerV2\obj\Debug\MyCompilerV2.csproj.CopyComplete
+D:\Sayrus\source\repos\MyCompilerV2\MyCompilerV2\obj\Debug\MyCompilerV2.exe
+D:\Sayrus\source\repos\MyCompilerV2\MyCompilerV2\obj\Debug\MyCompilerV2.pdb
+D:\Sayrus\source\repos\MyCompilerV2\MyCompilerV2\bin\Debug\Autofac.dll
+D:\Sayrus\source\repos\MyCompilerV2\MyCompilerV2\bin\Debug\Autofac.xml
+C:\Users\Mamula\Desktop\MyCompilerV2\MyCompilerV2\bin\Debug\MyCompilerV2.exe.config
+C:\Users\Mamula\Desktop\MyCompilerV2\MyCompilerV2\bin\Debug\MyCompilerV2.exe
+C:\Users\Mamula\Desktop\MyCompilerV2\MyCompilerV2\bin\Debug\MyCompilerV2.pdb
+C:\Users\Mamula\Desktop\MyCompilerV2\MyCompilerV2\bin\Debug\Autofac.dll
+C:\Users\Mamula\Desktop\MyCompilerV2\MyCompilerV2\bin\Debug\FastColoredTextBox.dll
+C:\Users\Mamula\Desktop\MyCompilerV2\MyCompilerV2\bin\Debug\Autofac.xml
+C:\Users\Mamula\Desktop\MyCompilerV2\MyCompilerV2\bin\Debug\FastColoredTextBox.xml
+C:\Users\Mamula\Desktop\MyCompilerV2\MyCompilerV2\obj\Debug\MyCompilerV2.csprojAssemblyReference.cache
+C:\Users\Mamula\Desktop\MyCompilerV2\MyCompilerV2\obj\Debug\MyCompilerV2.Properties.Resources.resources
+C:\Users\Mamula\Desktop\MyCompilerV2\MyCompilerV2\obj\Debug\MyCompilerV2.MainView.resources
+C:\Users\Mamula\Desktop\MyCompilerV2\MyCompilerV2\obj\Debug\MyCompilerV2.csproj.GenerateResource.cache
+C:\Users\Mamula\Desktop\MyCompilerV2\MyCompilerV2\obj\Debug\MyCompilerV2.csproj.CoreCompileInputs.cache
+C:\Users\Mamula\Desktop\MyCompilerV2\MyCompilerV2\obj\Debug\MyCompilerV2.csproj.CopyComplete
+C:\Users\Mamula\Desktop\MyCompilerV2\MyCompilerV2\obj\Debug\MyCompilerV2.exe
+C:\Users\Mamula\Desktop\MyCompilerV2\MyCompilerV2\obj\Debug\MyCompilerV2.pdb
+C:\Users\Mamula\Desktop\MyCompilerV2\MyCompilerV2\obj\Debug\MyCompilerV2.View.NewFormView.resources
+C:\Users\Mamula\Desktop\MyCompilerV2 - Copy\MyCompilerV2\bin\Debug\MyCompilerV2.exe.config
+C:\Users\Mamula\Desktop\MyCompilerV2 - Copy\MyCompilerV2\bin\Debug\MyCompilerV2.exe
+C:\Users\Mamula\Desktop\MyCompilerV2 - Copy\MyCompilerV2\bin\Debug\MyCompilerV2.pdb
+C:\Users\Mamula\Desktop\MyCompilerV2 - Copy\MyCompilerV2\bin\Debug\Autofac.dll
+C:\Users\Mamula\Desktop\MyCompilerV2 - Copy\MyCompilerV2\bin\Debug\FastColoredTextBox.dll
+C:\Users\Mamula\Desktop\MyCompilerV2 - Copy\MyCompilerV2\bin\Debug\Autofac.xml
+C:\Users\Mamula\Desktop\MyCompilerV2 - Copy\MyCompilerV2\bin\Debug\FastColoredTextBox.xml
+C:\Users\Mamula\Desktop\MyCompilerV2 - Copy\MyCompilerV2\obj\Debug\MyCompilerV2.csprojAssemblyReference.cache
+C:\Users\Mamula\Desktop\MyCompilerV2 - Copy\MyCompilerV2\obj\Debug\MyCompilerV2.Properties.Resources.resources
+C:\Users\Mamula\Desktop\MyCompilerV2 - Copy\MyCompilerV2\obj\Debug\MyCompilerV2.MainView.resources
+C:\Users\Mamula\Desktop\MyCompilerV2 - Copy\MyCompilerV2\obj\Debug\MyCompilerV2.View.NewFormView.resources
+C:\Users\Mamula\Desktop\MyCompilerV2 - Copy\MyCompilerV2\obj\Debug\MyCompilerV2.csproj.GenerateResource.cache
+C:\Users\Mamula\Desktop\MyCompilerV2 - Copy\MyCompilerV2\obj\Debug\MyCompilerV2.csproj.CoreCompileInputs.cache
+C:\Users\Mamula\Desktop\MyCompilerV2 - Copy\MyCompilerV2\obj\Debug\MyCompilerV2.csproj.CopyComplete
+C:\Users\Mamula\Desktop\MyCompilerV2 - Copy\MyCompilerV2\obj\Debug\MyCompilerV2.exe
+C:\Users\Mamula\Desktop\MyCompilerV2 - Copy\MyCompilerV2\obj\Debug\MyCompilerV2.pdb
+C:\Users\Mamula\Desktop\MyCompilerV2 - Copy\MyCompilerV2\bin\Debug\SplashScreen.dll
+C:\Users\Mamula\Desktop\MyCompilerV2 - Copy\MyCompilerV2\obj\Debug\MyCompilerV2.SplashScreen.resources
+C:\Users\Mamula\Desktop\Git\CompilerStudio3.0 (4)\MyCompilerV2 - Copy\MyCompilerV2\obj\Debug\MyCompilerV2.csprojAssemblyReference.cache
+C:\Users\Mamula\Desktop\Git\CompilerStudio3.0 (4)\MyCompilerV2 - Copy\MyCompilerV2\obj\Debug\MyCompilerV2.Properties.Resources.resources
+C:\Users\Mamula\Desktop\Git\CompilerStudio3.0 (4)\MyCompilerV2 - Copy\MyCompilerV2\obj\Debug\MyCompilerV2.MainView.resources
+C:\Users\Mamula\Desktop\Git\CompilerStudio3.0 (4)\MyCompilerV2 - Copy\MyCompilerV2\obj\Debug\MyCompilerV2.View.NewFormView.resources
+C:\Users\Mamula\Desktop\Git\CompilerStudio3.0 (4)\MyCompilerV2 - Copy\MyCompilerV2\obj\Debug\MyCompilerV2.SplashScreen.resources
+C:\Users\Mamula\Desktop\Git\CompilerStudio3.0 (4)\MyCompilerV2 - Copy\MyCompilerV2\obj\Debug\MyCompilerV2.csproj.GenerateResource.cache
+C:\Users\Mamula\Desktop\Git\CompilerStudio3.0 (4)\MyCompilerV2 - Copy\MyCompilerV2\obj\Debug\MyCompilerV2.csproj.CoreCompileInputs.cache
+C:\Users\Mamula\Desktop\Git\CompilerStudio3.0 (4)\MyCompilerV2 - Copy\MyCompilerV2\obj\Debug\MyCompilerV2.exe
+C:\Users\Mamula\Desktop\Git\CompilerStudio3.0 (4)\MyCompilerV2 - Copy\MyCompilerV2\obj\Debug\MyCompilerV2.pdb
+C:\Users\Mamula\Desktop\Git\CompilerStudio3.0 (4)\MyCompilerV2 - Copy\MyCompilerV2\bin\Debug\MyCompilerV2.exe.config
+C:\Users\Mamula\Desktop\Git\CompilerStudio3.0 (4)\MyCompilerV2 - Copy\MyCompilerV2\bin\Debug\MyCompilerV2.exe
+C:\Users\Mamula\Desktop\Git\CompilerStudio3.0 (4)\MyCompilerV2 - Copy\MyCompilerV2\bin\Debug\MyCompilerV2.pdb
+C:\Users\Mamula\Desktop\Git\CompilerStudio3.0 (4)\MyCompilerV2 - Copy\MyCompilerV2\bin\Debug\Autofac.dll
+C:\Users\Mamula\Desktop\Git\CompilerStudio3.0 (4)\MyCompilerV2 - Copy\MyCompilerV2\bin\Debug\FastColoredTextBox.dll
+C:\Users\Mamula\Desktop\Git\CompilerStudio3.0 (4)\MyCompilerV2 - Copy\MyCompilerV2\bin\Debug\SplashScreen.dll
+C:\Users\Mamula\Desktop\Git\CompilerStudio3.0 (4)\MyCompilerV2 - Copy\MyCompilerV2\bin\Debug\Autofac.xml
+C:\Users\Mamula\Desktop\Git\CompilerStudio3.0 (4)\MyCompilerV2 - Copy\MyCompilerV2\bin\Debug\FastColoredTextBox.xml
+C:\Users\Mamula\Desktop\Git\CompilerStudio3.0 (4)\MyCompilerV2 - Copy\MyCompilerV2\obj\Debug\MyCompilerV2.csproj.CopyComplete
